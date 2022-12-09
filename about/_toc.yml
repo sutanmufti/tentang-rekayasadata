@@ -4,6 +4,8 @@
 format: jb-book
 root: intro
 parts:
+  - chapters:
+    - file: buku_ini
   - caption: Tentang
     chapters:
     - file: Tentang_RDS
@@ -16,4 +18,12 @@ parts:
       - file: kontributor/kontributor/Sutan.md
       - file: kontributor/kontributor/Barik.md
       - file: kontributor/kontributor/Rini.md
+  - caption: Proyek Rumah
+    chapters:
+    - file: in-house/intro
+      sections:
+      - file: in-house/Rekayasadata.co.uk.md
+      - file: in-house/Editorial
+      - file: in-house/CeritaKopiJakarta
+
 
