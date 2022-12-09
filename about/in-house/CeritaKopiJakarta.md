@@ -9,7 +9,7 @@ Kami meracau tentang data & peta. Apa aplikasinya bagi masyarakat? Cerita Kopi J
 Cerita Kopi Jakarta merupakan halaman web-page sederhana yang menceritakan tentang distribusi toko kopi yang ada di Jakarta. Kami mengaplikasikan teknik statistik spasial dan _cloud computing_ dalam memproduksi wawasan. Ini merupakan aplikasi sederhana dari _location intelligence_.
 
 ```{admonition} Kunjungi
-:class: note
+:class: attention
 Cerita Kopi Jakarta adalah sebuah _web-page_.
 
 <button class="btn btn-primary">Akan Datang! {fas}`arrow-right`</button>
