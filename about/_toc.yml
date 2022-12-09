@@ -18,6 +18,7 @@ parts:
       - file: kontributor/kontributor/Sutan.md
       - file: kontributor/kontributor/Barik.md
       - file: kontributor/kontributor/Rini.md
+      - file: kontributor/kontributor/Hadiyan.md
   - caption: Proyek Rumah
     chapters:
     - file: in-house/intro
