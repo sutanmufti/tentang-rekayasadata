@@ -3,7 +3,16 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Tentang
+    chapters:
+    - file: Tentang_RDS
+    - file: how_we_work
+  - caption: Kontributor
+    chapters:
+    - file: kontributor/kontributor.md
+      sections:
+      - file: kontributor/kontributor/Sutan.md
+      - file: kontributor/kontributor/Barik.md
+      - file: kontributor/kontributor/Rini.md
+
