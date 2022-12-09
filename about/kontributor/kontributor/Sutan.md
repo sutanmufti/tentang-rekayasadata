@@ -19,6 +19,8 @@ Sutan merupakan editor senior dan lead researcher dari RDS.
 :::
 ::::
 
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/sutanmufti?style=social">](https://github.com/sutanmufti)
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/urban_planning?style=social">](https://twitter.com/urban_planning)
 
 Sutan adalah seorang _spatial data engineer_, kartografer, dan perencana kota/infrastruktur. Sutan telah bekerja dengan data spasial lebih dari 5 tahun, dan ini merupakan _passion_-nya. Dia telah terlibat dalam beberapa proyek rancang kota dan appraisal infrastruktur di Indonesia. Kebanyakan proyek-proyek ini merupakan proyek _Transit Oriented Development_. Dengan bahasa pemrograman Typescript & Python, Sutan mengembangkan solusi _data engineering_ dengan spesialisasi data spasial dan jaringan (_network analytics_) untuk pembangunan yang berkelanjutan.
 
@@ -33,13 +35,72 @@ visit:
 ::::{tab-set}
 :::{tab-item} Infrastructure Planning
 :class-label: bg-light
-My first tab
+
+
+Dengan latar belakang perencanaan wilayah kota dan pemodelan transportasi, Sutan dilengkapi dengan kemampuan analisis pembangunan ekonomi regional dan perkotaan. Dengan MSc Perencanaan Infrastruktur, Sutan memiliki spesialisasi di bidang appraisal dan perencanaan proyek mega-_infrastructure_. Beberapa artikel tentang appraisal infrastruktur diedarkan di https://sutan.co.uk. Beberapa proyek yang Sutan pernah terlibat:
+
+- Kereta Cepat Indonesia: analisis tapak rancang kota untuk Ulab Magnaversa Indonesia
+- LRT Kelapa Gading: analisis tipologi dan lingkungan TOD untuk Ulab Magnaversa Indonesia
+- MRT Jakarta Fase 2: appraisal pemilihan trayek untuk Ulab Magnaversa
+- Bus Rapid Transit Medan: pemodelan transportasi untuk dokumen appraisal untuk The World Bank Group, Indonesian Tranpsort Team
+- RoRo Financial Model: pemodelan investasi perkapalan, pengembangan pelabuhan RoRo Indonesia Timur untuk The World Bank Group
 :::
 
 :::{tab-item} Spatial Data Science
 :class-label: bg-light
 
 My second tab with `some code`!
+
+
+
+
+`````{grid}
+:gutter: 2
+
+````{grid-item}
+```{image} https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png
+```
+````
+````{grid-item}
+```{image} https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg
+```
+````
+````{grid-item}
+```{image} https://geopandas.org/en/stable/_images/geopandas_icon.png
+```
+````
+````{grid-item}
+```{image} https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png
+```
+````
+````{grid-item}
+```{image} https://avatars.githubusercontent.com/u/388785?s=200&v=4
+```
+````
+````{grid-item}
+```{image} https://avatars.githubusercontent.com/u/186522?s=280&v=4
+```
+````
+````{grid-item}
+```{image} https://nodejs.org/static/images/logo-hexagon-card.png
+```
+````
+````{grid-item}
+```{image} https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg
+```
+````
+
+
+`````
+
+dengan perangkat open-source spatial data science, Sutan memproduksi peta dan menjawab pertanyaan "di mana?". Untuk galeri peta, kunjungi https://instagram.com/sutanmaps
+
+```{image} ../../img/peta.png
+```
+
+
+
+
 :::
 
 :::{tab-item} Data Engineering
@@ -49,6 +110,32 @@ Orkestrasi dan manipulasi data spasial dan mempersiapkan infrastruktur data spas
 
 Stack yang biasa digunakan:
 postgis, postgresql, typescript, python, docker
+
+
+
+`````{grid}
+:gutter: 2
+
+````{grid-item}
+```{image} https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png
+```
+````
+````{grid-item}
+```{image} https://upload.wikimedia.org/wikipedia/en/6/60/PostGIS_logo.png
+```
+````
+````{grid-item}
+```{image} https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg
+```
+````
+````{grid-item}
+```{image} https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png
+```
+````
+`````
+
+
+
 :::
 ::::
 

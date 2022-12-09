@@ -8,6 +8,7 @@ parts:
     chapters:
     - file: Tentang_RDS
     - file: how_we_work
+    - file: kontribusi
   - caption: Kontributor
     chapters:
     - file: kontributor/kontributor.md
