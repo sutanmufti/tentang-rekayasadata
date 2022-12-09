@@ -21,10 +21,12 @@ Kami membahas teknik menjawab pertanyaan yang dimulai dengan **di mana?**
 Saat ini Rekayasa Data Spasial merupakan 
 
 ```{epigraph}
-Jaringan praktisi _location intelligence_, perencana perkotaan dan transportasi, software engineer dan merupakan wadah berkarya bagi jaringan. 
+1. Jaringan praktisi _location intelligence_, perencana perkotaan dan transportasi, dan software engineer 
+
+2. wadah berkarya seputar perpetaan dan software engineering untuk pembangunan berkelanjutan. 
 ```
 
-jRDS sendiri menjadi "proyek" sampingan kami yang mengisi waktu luang. Di sini kami berkarya dan berbagi dalam tulisan dan visualisasi. Harapannya, RDS menjadi suar ide-ide yang menjadi bibit karya-karya luar biasa di Indonesia.
+RDS sendiri menjadi "proyek" sampingan kami yang mengisi waktu luang. Di sini kami berkarya dan berbagi dalam tulisan dan visualisasi. Harapannya, RDS menjadi suar ide-ide yang menjadi bibit karya-karya luar biasa di Indonesia serta platform edukasi bagi kontributor.
 
 
 
