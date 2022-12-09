@@ -2,11 +2,11 @@
 
 <hr style="height:1px;border:none;color:#666;background-color:#666;" />
 
-
-Selamat datang di dokumentasi Rekayasa Data Spasial (RDS). Buku ini merupakan dokumentasi tentang perkembangan RDS sepanjang masa. Buku ini akan terus dikembangkan seiring aktivitas yang kami lakukan.
 ```{image} img/banner_cropped.png
 :width: 100%
 ```
+
+Selamat datang di dokumentasi Rekayasa Data Spasial (RDS). Buku ini merupakan dokumentasi tentang perkembangan RDS sepanjang masa. Buku ini akan terus dikembangkan seiring aktivitas yang kami lakukan.
 
 ---
 ```{contents} Konten
@@ -102,12 +102,29 @@ Ada peta di dalam semua cerita. Cerita Kopi Jakarta merupakan demonstrasi _locat
 _Coming Soon_ {fas}`arrow-right`
 :::
 
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+
+
+**Survey Transportasi**
+^^^
+```{image} ./img/network_analysis.png
+:height: 100
+```
+
+Menggunakan _cloud computing_, kami melakukan survey transportasi di Jakarta. Ini cerita dan _insight_ dari survey yang kami lakukan.
++++
+_Coming Soon_ {fas}`arrow-right`
+:::
+
 ::::
 
 
 
 
-## Dalam Buku Ini
+# Dalam Buku Ini
 
 ```{tableofcontents}
 ```
