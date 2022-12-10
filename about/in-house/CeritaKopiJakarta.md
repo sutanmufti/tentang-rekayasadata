@@ -1,5 +1,7 @@
 # Cerita Kopi Jakarta
 
+{bdg-info}`Riset` {bdg-info}`location intelligence`
+
 ## Latar Belakang
 
 Kami meracau tentang data & peta. Apa aplikasinya bagi masyarakat? Cerita Kopi Jakarta merupakan demonstrasi GIS & analisis data spasial lanjutan sesuai dengan [Pola Kerja](../how_we_work).
