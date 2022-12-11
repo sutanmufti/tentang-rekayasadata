@@ -12,5 +12,5 @@ Bagaimana perbandingan perjalanan dari Depok ke Jakarta antara dengan transit da
 :class: attention
 Transportasi Jakarta Depok adalah sebuah cerita.
 
-<button class="btn btn-primary">Akan Datang! {fas}`arrow-right`</button>
+<button class="btn btn-warning">Akan Datang! {fas}`arrow-right`</button>
 ```

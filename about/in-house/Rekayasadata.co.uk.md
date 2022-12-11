@@ -8,5 +8,5 @@
 :class: note
 Klik tautan berikut untuk mengunjungi rekayasadata.co.uk
 
-[<button class="btn btn-primary">Publikasi {fas}`arrow-right`</button>](https://rekayasadata.co.uk)
+[<button class="btn btn-primary">Publikasi {octicon}`link-external`</button>](https://rekayasadata.co.uk)
 ```

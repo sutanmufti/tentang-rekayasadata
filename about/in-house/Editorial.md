@@ -8,5 +8,5 @@ ada banyak artikel di [RekayasaData.co.uk](https://rekayasadata.co.uk). Editoria
 :class: note
 Editorial kami publish lewat akun Editor.
 
-[<button class="btn btn-primary">Akun Editor {fas}`arrow-right`</button>](https://rekayasadata.medium.com/)
+[<button class="btn btn-primary">Akun Editor {octicon}`link-external`</button>](https://rekayasadata.medium.com/)
 ```

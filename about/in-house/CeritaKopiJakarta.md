@@ -14,5 +14,5 @@ Cerita Kopi Jakarta merupakan halaman web-page sederhana yang menceritakan tenta
 :class: attention
 Cerita Kopi Jakarta adalah sebuah _web-page_.
 
-<button class="btn btn-primary">Akan Datang! {fas}`arrow-right`</button>
+<button class="btn btn-warning">Akan Datang! {fas}`arrow-right`</button>
 ```
