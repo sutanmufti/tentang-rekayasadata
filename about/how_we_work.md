@@ -6,6 +6,11 @@ Ada beberapa _merits_ dari tantangan ini:
 - saat kontributor Indonesia tidur, kontributor UK bekerja, dan sebaliknya.
 - jarak bukan merupakan syarat utama bekerja, di mana pun kami berada, kami akan tetap berkarya.
 
+Berikut merupakan arsitektur pola kerja kami.
+
+```{image} ./img/pola_kerja.png
+```
+
 ## {octicon}`git-pull-request;1em;sd-bg-light sd-text-muted` Git 
 
 Kami dapat bekerja dengan mengadopsi Git workflow. Dengan Git Workflow, kami mengembangkan kode-kode dengan sinergi dan independen. Dengan repository sentral dengan github, kami dapat bekerja tanpa batas geografi dalam menjawab pertanyaan __di mana__. 
@@ -24,7 +29,7 @@ Buku yang anda baca saat ini merupakan proyek _open source_. Tentang kontribusi,
 [<button class="btn btn-primary">Repository Buku Ini {fas}`arrow-right`</button>](https://github.com/sutanmufti/tentang-rekayasadata)
 ```
 
-## {octicon}`cpu;1em;sd-bg-light sd-text-muted` _Cloud Computing_ 
+## {material-outlined}`cloud;1.25em;sd-text-muted sd-bg-light` _Cloud Computing_ 
 
 ```{figure} https://azurecomcdn.azureedge.net/cvt-031d78d2380ba572861f1fc8c37e624c906c3a38f054ceb6fb4444af53de1c2d/images/page/resources/cloud-computing-dictionary/what-is-cloud-computing/cloud-ill-2.svg
 :align: center
@@ -43,3 +48,17 @@ Perkembangan teknologi virtualisasi melahirkan infrastruktur IT sebagai layanan.
 
 sumber: Rini & Sutan, 2022
 ```
+
+
+## {octicon}`database;1em;sd-bg-light sd-text-muted` Data Spasial, Peta, dan Cerita
+
+Poin-poin di atas merupakan infrastruktur dan alat bekerja. Ujungnya kami mengakuisisi data spasial yang kami butuhkan dan mengolahnya untuk menjawab pertanyaan-pertanyaan spasial. Kami bergantung pada software _open source_ seperti Python, QGIS dan _Postgresql_ sebagai alat analisis dan database. _In the end_,kami menyampaikan cerita-cerita berdasarkan peta-peta yang kami produksi. 
+
+Kunjungi https://rekayasadata.co.uk untuk cerita-cerita.
+
+```{figure} ./img/database.jpg
+:align: center
+
+sumber: Rini & Sutan, 2022
+```
+
