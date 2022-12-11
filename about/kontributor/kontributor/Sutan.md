@@ -49,7 +49,7 @@ Dengan latar belakang perencanaan wilayah kota dan pemodelan transportasi, Sutan
 :::{tab-item} Spatial Data Science
 :class-label: bg-light
 
-My second tab with `some code`!
+_Spatial data science_ merupakan teknik menjawab pertanyaan __di mana?__ dengan mengolah __data spasial__. Sutan mengandalkan beberapa _software open source_ untuk melakukan statistik perpetaan & kartografi.
 
 
 
