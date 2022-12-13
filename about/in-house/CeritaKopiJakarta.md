@@ -2,6 +2,24 @@
 
 {bdg-info}`Riset` {bdg-info}`location intelligence`
 
+
+`````{margin}
+````{admonition} meta
+:class: note
+
+
+Author: 
+
+Sutan, Hadiyan, Fauzi & Rini
+
+```{button-link} https://github.com/nooglersoon/coffee-story
+:color: primary
+:shadow:
+repo
+```
+````
+`````
+
 ## Latar Belakang
 
 Kami meracau tentang data & peta. Apa aplikasinya bagi masyarakat? Cerita Kopi Jakarta merupakan demonstrasi GIS & analisis data spasial lanjutan sesuai dengan [Pola Kerja](../how_we_work).
