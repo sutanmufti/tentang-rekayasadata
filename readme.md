@@ -1,5 +1,10 @@
 # Rekayasa Data Spasial
 
+
+[<img src="./about/logo_rds.png" alt="drawing" width="35%" style="align: center"/>](https://tentang.rekayasadata.co.uk)
+
+
+
 repository ini merupakan buku dokumentasi kehidupan Rekayasa Data Spasial dan rekayasadata.co.uk. Powered by ```jupyter-book```.
 
 Repository ini merupakan _source code_ dari [https://tentang.rekayasadata.co.uk](https://tentang.rekayasadata.co.uk) 
@@ -10,7 +15,10 @@ Repository ini merupakan _source code_ dari [https://tentang.rekayasadata.co.uk]
 2. invoke ```jupyter-book build about```.
 3. static HTML ada pada ```./about/_build/html``` dan ini dapat dideploy dalam web-server
 
-selebinya dapat baca dokumentasi ```jupyter-book```.
+selebinya dapat baca dokumentasi ```jupyter-book```; powered by ```jupyter-book```
+
+[<img src="./about/logo.png" alt="drawing" width="35%"/>](https://jupyterbook.org/en/stable/intro.html)
+
 
 ## Lingkup Kerja
 
