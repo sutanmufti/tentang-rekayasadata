@@ -18,7 +18,9 @@ Barik merupakan software engineer di RDS. Kontribusinya meliputi konsultasi soft
 :::
 ::::
 
-Graduated from Computer Science, Institut Teknologi Bandung. Currently working as speech technology engineer at Prosa.ai
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/rizkyebarik?style=social">](https://github.com/rizkyebarik)
+
+Barik is computer science graduate from Institut Teknologi Bandung. He's been working as speech technology researcher at Prosa.ai since 2019. He specifically develops STT (Speech-to-Text) and voice biometrics system that are used by several private and state-owned enterprises. Technology stacks used for developing aforementioned products i.e. Kaldi Speech Toolkit, Python, PyTorch. He also occassionally works on web app projects.
 
 
 ## Edukasi
